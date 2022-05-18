@@ -2,7 +2,7 @@
 
 Front-end development often relies on back-end data interfaces. Before the back-end interfaces are ready, the front-end is usually difficult to start. The Mock function is used to solve this problem. With the Mock tool, the front-end and back-end can be developed simultaneously. Before the back-end interface comes out, the front-end can use the Mock function to create a fake data interface for development and debugging.
 
-## function description
+## Function description
 
 The Mock function can automatically generate mock data according to `the interface/data structure definition`, `Mock rule configuration`, `Mock expectation configuration`. And users can flexibly construct interface data of various structures according to their needs.
 
@@ -83,7 +83,7 @@ When the data field is automatically mocked, the Mock rules that are actually ex
 5. `Project Settings - Built-in rules for smart Mock settings`.
 6. The `data type` of the field in the data structure.
 
-## other
+## Other
 
 By default, the system will mock the data structure of the first Response in the interface definition. If you need to mock other Responses, you can get the mock URLs of other Responses in the Mock module of the interface details - view page.
 
